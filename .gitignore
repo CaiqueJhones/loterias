@@ -1,0 +1,32 @@
+### OS ###
+
+.DS_Store
+*.log
+
+### Gradle ###
+
+.gradle/
+build/
+
+### Eclipse ###
+bin/
+.classpath
+.project
+.settings/
+.metadata/
+
+### IntelliJ IDEA ###
+
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
