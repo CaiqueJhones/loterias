@@ -1,2 +1,3 @@
 rootProject.name = 'loterias'
+include 'app'
 
